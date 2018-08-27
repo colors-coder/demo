@@ -1,7 +1,7 @@
-let add = (num1, num2)=>{
+const add = (num1, num2)=>{
     return num1 + num2;
 }
 
-let substract = (num1, mun2)=>{
+const substract = (num1, num2)=>{
     return num1 - num2;
 }
